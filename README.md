@@ -27,7 +27,8 @@
 
 一句话描述：**「给我 URL 和需求，还你一张干净的数据表。」**
 
----![Uploading WG4](GRK1B9I[JCBPP$$JPQ.png…]()
+---<img width="1436" height="1165" alt="ai_web_scraper" src="https://github.com/user-attachments/assets/55af9098-dd0e-432e-bd1b-3d981be3e816" />
+
 
 
 ## 架构图
